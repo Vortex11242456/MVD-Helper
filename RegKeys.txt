@@ -7,3 +7,5 @@
 00331-10000-00001-AA185,https://vk.com/s.lebrer
 00261-50000-00000-AA989,https://vk.com/danil_borozdin
 00371-OEM-8992671-00407,https://vk.com/id445505730
+00327-70000-00001-AA658,https://vk.com/mtagirovic
+00330-80000-00000-AA479,https://vk.com/mr.tah4uk
