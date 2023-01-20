@@ -17,3 +17,7 @@
 00329-60095-37953-AA350,https://vk.com/realsnickers
 00425-00000-00002-AA263,https://vk.com/mrdenis_68
 00328-90000-00000-AAOEM,https://vk.com/id577057781
+00378-20000-00003-AA247,https://vk.com/romanov_vd
+00330-80000-00000-AA603,https://vk.com/1ve4no_molodoi1
+00327-60000-00000-AA998,https://vk.com/va.chikunov
+00426-OEM-8992662-00400,https://vk.com/fedorin_a
