@@ -35,3 +35,5 @@
 00330-80000-00000-AA596,https://vk.com/xach_arra
 00327-30992-51641-AAOEM,https://vk.com/anatoly9282
 00330-80000-00000-AA546,https://vk.com/krytoyperez
+00378-20000-00003-AA658,https://vk.com/shvedreyes
+00331-10000-00001-AA365,https://vk.com/stmezhut
