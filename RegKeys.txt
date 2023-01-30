@@ -40,3 +40,4 @@
 00330-80000-00000-AA035,https://vk.com/staroverov123
 00327-60000-00000-AA811,https://vk.com/id717582075
 00330-80000-00000-AA542,https://vk.com/maxon3r
+00331-10000-00001-AA383,https://vk.com/id607883839
