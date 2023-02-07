@@ -60,3 +60,4 @@
 00330-80000-00000-AA251,https://vk.com/magomedov_02
 00436-50000-00000-AAOEM,https://vk.com/pgrebenschikov
 00327-30445-58814-AAOEM,https://vk.com/hr0n1k
+00331-10000-00001-AA472,https://vk.com/soforqa
