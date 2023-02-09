@@ -68,3 +68,4 @@
 00326-10000-00000-AA246,https://vk.com/1percik1
 00330-80000-00000-AA060,https://vk.com/id715763131
 00426-OEM-8992662-00173,https://vk.com/22ageev
+00261-50000-00000-AA597,https://vk.com/maximus_0d
