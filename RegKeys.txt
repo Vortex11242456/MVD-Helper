@@ -65,3 +65,6 @@
 00330-80000-00000-AA311,https://vk.com/o.xxxygen
 00326-10879-96230-AA153,https://vk.com/id646709531
 00330-80000-00000-AA179,https://vk.com/id673415446
+00326-10000-00000-AA246,https://vk.com/1percik1
+00330-80000-00000-AA060,https://vk.com/id715763131
+00426-OEM-8992662-00173,https://vk.com/22ageev
