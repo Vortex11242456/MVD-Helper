@@ -69,3 +69,5 @@
 00330-80000-00000-AA060,https://vk.com/id715763131
 00426-OEM-8992662-00173,https://vk.com/22ageev
 00261-50000-00000-AA597,https://vk.com/maximus_0d
+00331-10000-00001-AA387,https://vk.com/idfackyou1988
+00330-80000-00000-AA586,https://vk.com/v.baltika
