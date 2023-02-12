@@ -75,3 +75,5 @@
 00331-10000-00001-AA638,https://vk.com/s.lebrer
 00327-30805-46130-AAOEM,https://vk.com/young_blood151
 00327-70000-00001-AA841,https://vk.com/m_konstantin_m
+00331-10000-00001-AA587,https://vk.com/dyuza
+00327-70000-00001-AA173,https://vk.com/h1zer88boss
