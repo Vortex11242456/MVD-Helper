@@ -82,3 +82,6 @@
 00331-10000-00001-AA283,https://vk.com/artemapisarov
 00327-30740-19396-AAOEM,https://vk.com/1percik1
 00331-10000-00001-AA685,https://vk.com/dima2282006
+00331-10000-00001-AA281,https://vk.com/id763608446
+00331-10000-00001-AA364,https://vk.com/tolik_oleinik
+00327-31060-56562-AAOEM,https://vk.com/dimas_4_6
