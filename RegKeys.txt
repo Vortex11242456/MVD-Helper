@@ -96,3 +96,5 @@
 00425-00000-00002-AA058,https://vk.com/77offline77
 00326-10879-80913-AA205,https://vk.com/andergr0ynd
 00331-10000-00001-AA565,https://vk.com/mikser_q
+00331-10000-00001-AA163,https://vk.com/idramazan007
+00330-80000-00000-AA501,https://vk.com/leshka_71
