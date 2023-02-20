@@ -101,3 +101,5 @@
 00330-80000-00000-AA352,https://vk.com/ushakov1955
 00330-80000-00000-AA170,https://vk.com/kirillsaf777
 00331-10000-00001-AA861,https://vk.com/xertamtorsd
+00426-OEM-8992662-00006,https://vk.com/id779636761
+00326-10000-00000-AA939,https://vk.com/id354078041
