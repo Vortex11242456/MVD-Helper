@@ -104,3 +104,4 @@
 00426-OEM-8992662-00006,https://vk.com/id779636761
 00326-10000-00000-AA939,https://vk.com/id354078041
 00329-00000-00003-AA404,https://vk.com/banka_s_lemonade
+00331-10000-00001-AA881,https://vk.com/m.potokin
