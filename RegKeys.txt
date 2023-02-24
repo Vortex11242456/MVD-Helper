@@ -106,3 +106,6 @@
 00329-00000-00003-AA404,https://vk.com/banka_s_lemonade
 00331-10000-00001-AA881,https://vk.com/m.potokin
 00327-30661-29418-AAOEM,https://vk.com/qwsshiih
+00327-31057-66481-AAOEM,https://vk.com/id536250679
+00326-00870-73822-AAOEM,https://vk.com/m8shaextrim
+00331-10000-00001-AA786,https://vk.com/avilov10
