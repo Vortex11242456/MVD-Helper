@@ -111,3 +111,4 @@
 00331-10000-00001-AA786,https://vk.com/avilov10
 00425-00000-00002-AA650,https://vk.com/schastliviy_boy
 00425-00000-00002-AA454,https://vk.com/na_la1te24
+00326-10000-00000-AA504, https://vk.com/danil_bondar6
