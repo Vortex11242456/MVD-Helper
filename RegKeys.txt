@@ -123,3 +123,4 @@
 00331-10000-00001-AA330,https://vk.com/filippovich8
 00329-00000-00003-AA140,https://vk.com/bratkov46
 00330-80000-00000-AA660,https://vk.com/lethalang
+00330-80179-58281-AA267,https://vk.com/leshka_71
