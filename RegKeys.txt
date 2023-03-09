@@ -122,7 +122,7 @@
 00330-80000-00000-AA391,https://vk.com/abbos06
 00331-10000-00001-AA330,https://vk.com/filippovich8
 00329-00000-00003-AA140,https://vk.com/bratkov46
-00330-80000-00000-AA660,https://vk.com/lethalang
+00331-10000-00001-AA277,https://vk.com/lethalang
 00330-80179-58281-AA267,https://vk.com/leshka_71
 00425-00000-00002-AA308,https://vk.com/id600529573
 00328-0000-0000-АА090,https://vk.com/matsegorin96
