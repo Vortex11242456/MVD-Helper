@@ -135,3 +135,4 @@
 00424-80000-00000-AAOEM,https://vk.com/dead.monsteeer, https://vk.com/mmoonnsstteerr
 00326-10000-00000-AA376,https://vk.com/bunker077
 00346-OEM-8992752-50258,https://vk.com/ne_pon055
+00326-10000-00000-AA149,https://vk.com/apllikiss
