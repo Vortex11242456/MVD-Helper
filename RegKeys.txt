@@ -137,3 +137,5 @@
 00346-OEM-8992752-50258,https://vk.com/ne_pon055
 00326-10000-00000-AA149,https://vk.com/apllikiss
 00330-52085-35874-AAOEM,https://vk.com/vtornik_rain
+00425-00000-00002-AA105,https://vk.com/v.baukov19_02
+00425-00000-00002-AA142, https://vk.com/mr_toyota
