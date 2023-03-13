@@ -130,7 +130,7 @@
 00326-10000-00000-AA158,https://vk.com/id_trollebalov_official
 00330-80000-00000-AA866,https://vk.com/adonaldack
 00326-10884-83824-AA874,https://vk.com/edvard2050
-00330-80000-00000-AA485,vk.com/vilikrut
+00330-80000-00000-AA485,https://vk.com/vilikrut
 00331-10000-00001-AA455,https://vk.com/wwqkhw
 00424-80000-00000-AAOEM,https://vk.com/dead.monsteeer, https://vk.com/mmoonnsstteerr
 00326-10000-00000-AA376,https://vk.com/bunker077
@@ -138,4 +138,5 @@
 00326-10000-00000-AA149,https://vk.com/apllikiss
 00330-52085-35874-AAOEM,https://vk.com/vtornik_rain
 00425-00000-00002-AA105,https://vk.com/v.baukov19_02
-00425-00000-00002-AA142, https://vk.com/mr_toyota
+00425-00000-00002-AA142,https://vk.com/mr_toyota
+00331-20351-61703-AA905,https://vk.com/shelby_056
