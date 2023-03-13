@@ -141,3 +141,4 @@
 00425-00000-00002-AA142,https://vk.com/mr_toyota
 00331-20351-61703-AA905,https://vk.com/shelby_056
 00326-00859-66245-AAOEM,https://vk.com/virtuozovv
+00331-10000-00001-AA120,https://vk.com/windikolenko
