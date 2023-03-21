@@ -158,3 +158,4 @@
 00327-30000-00000-AAOEM,https://vk.com/id640709609
 00331-10000-00001-AA544,https://vk.com/yaparovozik
 00327-30443-58154-AAOEM,https://vk.com/belikov26
+00330-80000-00000-AA539,https://vk.com/lmaoberkut
