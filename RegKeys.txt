@@ -157,10 +157,11 @@
 00326-30000-00001-AA136,https://vk.com/i.blashevich
 00327-30000-00000-AAOEM,https://vk.com/id640709609
 00331-10000-00001-AA544,https://vk.com/yaparovozik
-00327-30443-58154-AAOEM,https://vk.com/belikov26
+00326-10000-00000-AA725,https://vk.com/belikov26
 00330-80000-00000-AA539,https://vk.com/lmaoberkut
 00327-30770-26149-AAOEM,https://vk.com/mmmmmmmdaaaaaaaaaaa
 00325-81851-79671-AAOEM,https://vk.com/zhigalov07
 00325-96038-40514-AAOEM,https://vk.com/sannishott
 00331-10000-00001-AA714,https://vk.com/qwrtes
 00326-10000-00000-AA754,https://vk.com/fltzbg
+00327-30721-31578-AAOEM,https://vk.com/deh1x
