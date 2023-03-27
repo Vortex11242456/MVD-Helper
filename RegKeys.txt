@@ -172,3 +172,4 @@
 00330-80000-00000-AA298,https://vk.com/shknz1gg
 00327-30000-00000-AAOEM,https://vk.com/levrezinkin
 00330-80000-00000-AA485,https://vk.com/vilikrut
+00331-10000-00001-AA871,https://vk.com/piska0artema
