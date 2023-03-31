@@ -175,3 +175,4 @@
 00331-10000-00001-AA186,https://vk.com/piska0artema
 00327-30465-46600-AAOEM,https://vk.com/v.rustamov01
 00326-30000-00001-AA478,https://vk.com/young_blood151
+00330-80000-00000-AA150,https://vk.com/zhekanaum
