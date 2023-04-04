@@ -186,3 +186,4 @@
 00330-80000-00000-AA709,https://vk.com/emperfof
 00330-80000-00000-AA235,https://vk.com/agaev_farid
 00327-31010-10618-AAOEM,https://vk.com/hv1ls_partizan
+00330-80000-00000-AA797,https://vk.com/tenades
