@@ -189,3 +189,5 @@
 00330-80000-00000-AA797,https://vk.com/tenades
 00331-10000-00001-AA525,https://vk.com/bysakyrai
 00330-80000-00000-AA740,https://vk.com/id609878883
+00331-10000-00001-AA495,https://vk.com/bilaz1999
+00331-10000-00001-AA520,https://vk.com/danya_mell
