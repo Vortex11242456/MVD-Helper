@@ -191,3 +191,4 @@
 00330-80000-00000-AA740,https://vk.com/id609878883
 00331-10000-00001-AA495,https://vk.com/bilaz1999
 00331-10000-00001-AA520,https://vk.com/danya_mell
+00331-10000-00001-AA458,https://vk.com/goncharenko_55
