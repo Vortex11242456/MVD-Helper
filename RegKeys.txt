@@ -193,3 +193,4 @@
 00331-10000-00001-AA520,https://vk.com/danya_mell
 00331-10000-00001-AA458,https://vk.com/goncharenko_55
 00330-80000-00000-AA190,https://vk.com/killnet.rostovskiy161rus
+00327-70000-00001-AA539,https://vk.com/juniorbelly
