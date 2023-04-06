@@ -195,3 +195,4 @@
 00330-80000-00000-AA190,https://vk.com/killnet.rostovskiy161rus
 00327-70000-00001-AA539,https://vk.com/juniorbelly
 00331-10000-00001-AA235,https://vk.com/sosi_moyhuy
+00331-20210-05522-AA336,https://vk.com/i_kolt
