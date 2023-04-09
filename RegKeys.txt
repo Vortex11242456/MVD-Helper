@@ -203,3 +203,4 @@
 00330-80000-00000-AA634,https://vk.com/yaroslav_tunik
 00425-00000-00002-AA880,https://vk.com/s.bobrovskiy98
 00425-00000-00002-AA318,https://vk.com/rost123321
+00331-10000-00001-AA542,https://vk.com/solevoy01
