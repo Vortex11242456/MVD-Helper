@@ -200,3 +200,6 @@
 00330-80000-00000-AA119,https://vk.com/id554688405
 00330-80000-00000-AA751,https://vk.com/spokyyy
 00331-10000-00001-AA082,https://vk.com/ramazanvelikii
+00330-80000-00000-AA634,https://vk.com/yaroslav_tunik
+00425-00000-00002-AA880,https://vk.com/s.bobrovskiy98
+00425-00000-00002-AA318,https://vk.com/rost123321
