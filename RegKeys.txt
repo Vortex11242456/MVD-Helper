@@ -56,7 +56,7 @@
 00330-80000-00000-AA888,https://vk.com/bandittop
 00330-80000-00000-AA302,https://vk.com/id420366723
 00342-42304-56849-AAOEM,https://vk.com/ermack_mirack
-00331-10000-00001-AA248,https://vk.com/idfackyou1988
+00326-10000-00000-AA067,https://vk.com/idfackyou1988
 00330-80000-00000-AA251,https://vk.com/magomedov_02
 00436-50000-00000-AAOEM,https://vk.com/pgrebenschikov
 00327-30445-58814-AAOEM,https://vk.com/hr0n1k
