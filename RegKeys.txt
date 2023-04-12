@@ -206,3 +206,4 @@
 00331-10000-00001-AA542,https://vk.com/solevoy01
 00330-80000-00000-AA585,https://vk.com/danil759
 00331-10000-00001-AA368,https://vk.com/salam2810
+00331-10000-00001-AA967,https://vk.com/nikita_shkapov
