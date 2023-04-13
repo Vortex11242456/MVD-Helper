@@ -202,8 +202,9 @@
 00331-10000-00001-AA082,https://vk.com/ramazanvelikii
 00330-80000-00000-AA634,https://vk.com/yaroslav_tunik
 00425-00000-00002-AA880,https://vk.com/s.bobrovskiy98
-00425-00000-00002-AA553,https://vk.com/rost123321
+00328-10000-00001-AA945,https://vk.com/yanesska19
 00331-10000-00001-AA542,https://vk.com/solevoy01
 00330-80000-00000-AA585,https://vk.com/danil759
 00331-10000-00001-AA368,https://vk.com/salam2810
 00331-10000-00001-AA967,https://vk.com/nikita_shkapov
+00331-10000-00001-AA733,https://vk.com/maga0010
