@@ -190,7 +190,7 @@
 00331-10000-00001-AA525,https://vk.com/bysakyrai
 00330-80000-00000-AA740,https://vk.com/id609878883
 00331-10000-00001-AA495,https://vk.com/bilaz1999
-00331-10000-00001-AA520,https://vk.com/danya_mell
+00331-10000-00001-AA814,https://vk.com/danya_mell
 00331-10000-00001-AA458,https://vk.com/goncharenko_55
 00425-00000-00002-AA553,https://vk.com/killnet.rostovskiy161rus
 00327-70000-00001-AA539,https://vk.com/juniorbelly
@@ -212,3 +212,4 @@
 00331-20071-00095-AA308,https://vk.com/l1nkyyy6356
 00330-81489-80369-AA865,https://vk.com/apodtikhov
 00326-30000-00001-AA796,https://vk.com/ivanmaslov111
+00436-20000-00000-AAOEM,https://vk.com/id629717510
