@@ -51,7 +51,7 @@
 00330-80000-00000-AA739,https://vk.com/id777564323
 00331-10000-00001-AA779,https://vk.com/artemka_de_lyashova
 00327-30041-04402-AAOEM,https://vk.com/darkszt
-00330-50000-00000-AAOEM,https://vk.com/counterterrorist1
+00330-80000-00000-AA241,https://vk.com/counterterrorist1
 00342-41441-48927-AAOEM,https://vk.com/gg22jj
 00330-80000-00000-AA888,https://vk.com/bandittop
 00330-80000-00000-AA302,https://vk.com/id420366723
