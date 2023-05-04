@@ -230,3 +230,6 @@
 00330-80000-00000-AA162,https://vk.com/jopa_kota73
 00331-10000-00001-AA899,https://vk.com/suetolog_tula
 00325-81903-67790-AAOEM,https://vk.com/id746144954
+00330-80000-00000-AA819,https://vk.com/ananim_nevazhno
+00331-10000-00001-AA255,https://vk.com/vospitan_stranoy
+00330-80000-00000-AA148,https://vk.com/eva_aven
