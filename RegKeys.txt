@@ -234,3 +234,4 @@
 00331-10000-00001-AA255,https://vk.com/vospitan_stranoy
 00330-80000-00000-AA148,https://vk.com/eva_aven
 00329-00000-00003-AA687,https://vk.com/safiullin5
+00329-00000-00003-AA902,https://vk.com/v.baukov19_02
