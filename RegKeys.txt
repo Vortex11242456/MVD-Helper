@@ -239,3 +239,5 @@
 00327-30785-78660-AAOEM,https://vk.com/eva_aven
 00330-50000-00000-AAOEM,https://vk.com/nem1x43
 00330-81477-01397-AA596,https://vk.com/nohchist1g
+00328-00000-00000-AA972,https://vk.com/maksakima
+00330-80000-00000-AA342,https://vk.com/a_n_o_n_i_s_t
