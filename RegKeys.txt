@@ -244,3 +244,4 @@
 00330-80000-00000-AA093,https://vk.com/id530004006
 00331-10000-00001-AA126,https://vk.com/silakotakbas
 00326-00816-31746-AAOEM,https://vk.com/ryssil
+00327-30983-51651-AAOEM,https://vk.com/bly5051
