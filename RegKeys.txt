@@ -248,4 +248,5 @@
 00330-80000-00000-AA859,https://vk.com/h1zer88boss
 00331-10000-00001-AA806,https://vk.com/id646384830
 00327-31010-32442-AAOEM,https://vk.com/acurse3d
-00325-81711-54655-AAOEM,Блинов Кирилл,vk.com/speshkapig
+00325-81711-54655-AAOEM,https://vk.com/speshkapig
+00330-80000-00000-AA461,https://vk.com/acermanoffical2008
