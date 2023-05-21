@@ -254,3 +254,4 @@
 00326-10000-00000-AA417,https://vk.com/kiosk7
 00331-10000-00001-AA550,https://vk.com/lukeeeeeeeee
 00327-60000-00000-AA219,https://vk.com/nikita_marshal
+00330-80000-00000-AA714,https://vk.com/izhmyakov5
