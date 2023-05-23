@@ -257,3 +257,4 @@
 00330-80000-00000-AA714,https://vk.com/izhmyakov5
 00331-10000-00001-AA888,https://vk.com/dolgozhitelniy
 00331-10000-00001-AA118,https://vk.com/flash1992
+00330-80000-00000-AA408,https://vk.com/gbkk_104
