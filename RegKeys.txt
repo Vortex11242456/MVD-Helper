@@ -259,3 +259,4 @@
 00331-10000-00001-AA118,https://vk.com/flash1992
 00330-80000-00000-AA408,https://vk.com/gbkk_104
 00330-80198-19343-AA675,https://vk.com/porad1st
+00330-80000-00000-AA130,https://vk.com/denchik2409
