@@ -260,3 +260,4 @@
 00330-80000-00000-AA408,https://vk.com/gbkk_104
 00330-80198-19343-AA675,https://vk.com/porad1st
 00330-80000-00000-AA130,https://vk.com/denchik2409
+00326-30000-00001-AA791,https://vk.com/mike_repov
