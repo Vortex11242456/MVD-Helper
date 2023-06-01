@@ -267,4 +267,5 @@
 00331-20351-61703-AA198,https://vk.com/drillpalosvki
 00330-80000-00000-AA237,https://vk.com/id535419796
 00331-20020-00000-AA443,https://vk.com/napas0
-00330-80000-00000-AA729, https://vk.com/cellory18
+00330-80000-00000-AA729,https://vk.com/cellory18
+00326-10000-00000-AA409,https://vk.com/3astalina
