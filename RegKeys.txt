@@ -271,3 +271,4 @@
 00326-10000-00000-AA409,https://vk.com/3astalina
 00327-30892-09909-AAOEM,https://vk.com/id744793917
 00261-50000-00000-АА989,https://vk.com/a.silonov7
+00331-10000-00001-AA175,https://vk.com/chopniyglist
