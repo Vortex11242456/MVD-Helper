@@ -280,3 +280,4 @@
 00331-10000-00001-AA414,https://vk.com/id723398208
 00331-10000-00001-AA559,https://vk.com/id796143547
 00327-60000-00000-AA290,https://vk.com/gsyrov2000
+00331-10000-00001-AA792,https://vk.com/k.beskhlebny
