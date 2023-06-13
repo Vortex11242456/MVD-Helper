@@ -291,3 +291,4 @@
 00331-10000-00001-AA210,https://vk.com/morv1s
 00329-00000-00003-AA986,https://vk.com/skepperr
 00326-10000-00000-AA426,https://vk.com/youngblaze
+00326-10000-00000-AA439,https://vk.com/platon3333
