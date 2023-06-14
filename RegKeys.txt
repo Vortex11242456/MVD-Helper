@@ -296,3 +296,4 @@
 00330-80000-00000-AA159,https://vk.com/xraynalx
 00330-80000-00000-AA504,https://vk.com/fistacha
 00359-OEM-8992687-00006,https://vk.com/id583328539
+00330-80000-00000-AA468,https://vk.com/landishhhez
