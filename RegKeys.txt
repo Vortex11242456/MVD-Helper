@@ -300,3 +300,4 @@
 00326-00829-36925-AAOEM,https://vk.com/dobrix13
 00330-80000-00000-AA278,https://vk.com/karanaev4042000
 00331-10000-00001-AA537,https://vk.com/artem202
+00331-10000-00001-AA929,https://vk.com/bengzo
