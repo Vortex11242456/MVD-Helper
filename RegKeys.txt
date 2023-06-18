@@ -303,3 +303,4 @@
 00331-10000-00001-AA929,https://vk.com/bengzo
 00326-10000-00000-AA829,https://vk.com/id487292222
 00327-70000-00001-AA509,https://vk.com/nikita0355
+00331-10000-00001-AA727,https://vk.com/k.minazeev
