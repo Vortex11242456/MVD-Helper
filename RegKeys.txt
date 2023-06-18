@@ -154,7 +154,7 @@
 00327-31104-08380-AAOEM,https://vk.com/eme_1253
 00331-10000-00001-AA471,Максим Андрущенко
 00331-10000-00001-AA220,https://vk.com/a.karapetyan6
-00331-10000-00001-AA500,https://vk.com/calam33
+00331-10000-00001-AA272,https://vk.com/calam33
 00326-30000-00001-AA136,https://vk.com/i.blashevich
 00327-30000-00000-AAOEM,https://vk.com/id640709609
 00331-10000-00001-AA544,https://vk.com/yaparovozik
