@@ -305,3 +305,4 @@
 00327-70000-00001-AA509,https://vk.com/nikita0355
 00331-10000-00001-AA727,https://vk.com/k.minazeev
 00330-80000-00000-AA739,https://vk.com/ya_ne_znayu_kto_ya
+00331-10000-00001-AA429,https://vk.com/crux777
