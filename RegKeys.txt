@@ -181,7 +181,7 @@
 00327-70000-00001-AA658,https://vk.com/mtagirovic
 00331-10000-00001-AA892,https://vk.com/xjssmhh
 00426-292-0000007-85162,https://vk.com/id632381057
-00326-10000-00000-AA765,https://vk.com/manger_01
+00326-10000-00000-AA817,https://vk.com/manger_01
 00425-00000-00002-AA161,https://vk.com/cloud1k
 00327-70000-00001-AA658,https://vk.com/mtagirovic
 00330-80000-00000-AA709,https://vk.com/emperfof
