@@ -254,7 +254,7 @@
 00342-41434-17820-AAOEM,https://vk.com/vinceto
 00326-10000-00000-AA417,https://vk.com/kiosk7
 00331-10000-00001-AA550,https://vk.com/lukeeeeeeeee
-00327-60000-00000-AA219,https://vk.com/nikita_marshal
+00327-60000-00000-AA801,https://vk.com/nikita_marshal
 00330-80000-00000-AA714,https://vk.com/izhmyakov5
 00331-10000-00001-AA888,https://vk.com/dolgozhitelniy
 00331-10000-00001-AA118,https://vk.com/flash1992
