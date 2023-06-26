@@ -317,3 +317,4 @@
 00330-80000-00000-AA892,https://vk.com/maiorov_roman
 00331-10000-00001-AA618,https://vk.com/kawasaki_kx_85_valit
 00327-30553-37109-AAOEM,https://vk.com/klaus_mills
+00331-10000-00001-AA565,https://vk.com/solevoyd
