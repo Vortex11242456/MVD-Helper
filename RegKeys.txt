@@ -331,3 +331,4 @@
 00425-00000-00002-AA835,https://vk.com/csgocsgo07
 00326-30000-00001-AA278,https://vk.com/boss2808
 00330-80000-00000-AA376,https://vk.com/c.walkman
+00342-42326-08281-AAOEM,https://vk.com/r.mushnin
