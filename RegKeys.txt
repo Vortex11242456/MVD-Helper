@@ -328,3 +328,4 @@
 00342-41371-73637-AAOEM,https://vk.com/id619424946
 00330-50000-00000-AAOEM,https://vk.com/id721982539
 00330-80000-00000-AA404,https://vk.com/exilekol
+00425-00000-00002-AA835,https://vk.com/csgocsgo07
