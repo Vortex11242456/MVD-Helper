@@ -329,3 +329,4 @@
 00330-50000-00000-AAOEM,https://vk.com/id721982539
 00330-80000-00000-AA404,https://vk.com/exilekol
 00425-00000-00002-AA835,https://vk.com/csgocsgo07
+00326-30000-00001-AA278,https://vk.com/boss2808
