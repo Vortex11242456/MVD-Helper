@@ -339,3 +339,4 @@
 00330-80000-00000-AA258,https://vk.com/id742643402
 00331-10000-00001-AA376,https://vk.com/g.pelsik
 00330-80000-00000-AA289,https://vk.com/esufyanov99
+00325-81858-16288-AAOEM,https://vk.com/ezi4ker
