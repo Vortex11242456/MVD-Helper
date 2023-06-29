@@ -332,3 +332,5 @@
 00326-30000-00001-AA278,https://vk.com/boss2808
 00330-80000-00000-AA376,https://vk.com/c.walkman
 00342-42326-08281-AAOEM,https://vk.com/r.mushnin
+00330-50000-00000-AAOEM,https://vk.com/vodo4ka.v.zapoe
+00331-10000-00001-AA242,https://vk.com/id340452329
