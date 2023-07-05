@@ -365,3 +365,4 @@
 00330-80000-00000-AA845,https://vk.com/m.pelsik
 00331-10000-00001-AA573,https://vk.com/salmatov7
 00330-80000-00000-AA742,https://vk.com/dsilin14
+00326-10000-00000-AA009,https://vk.com/id584908774
