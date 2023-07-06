@@ -369,3 +369,4 @@
 00380-70000-00001-AAOEM,https://vk.com/nikbelov161
 00331-10000-00001-AA089,https://vk.com/id760975332
 00331-10000-00001-AA775,https://vk.com/adurashkin
+00330-80000-00000-AA651,https://vk.com/alekseymarochkin
