@@ -372,3 +372,5 @@
 00330-80000-00000-AA651,https://vk.com/alekseymarochkin
 00325-81596-60863-AAOEM,https://vk.com/efimka8
 00330-80000-00000-AA402,https://vk.com/dima_mirnoy
+00330-80000-00000-AA742,https://vk.com/illya_1
+00330-80000-00000-AA564,https://vk.com/orest0770
