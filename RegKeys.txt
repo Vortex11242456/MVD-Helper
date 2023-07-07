@@ -375,3 +375,4 @@
 00330-80000-00000-AA742,https://vk.com/illya_1
 00330-80000-00000-AA564,https://vk.com/orest0770
 00331-10000-00001-AA958,https://vk.com/kenzik70
+00331-10000-00001-AA950,https://vk.com/l_7star_l
