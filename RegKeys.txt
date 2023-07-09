@@ -379,3 +379,6 @@
 00327-30556-20289-AAOEM,https://vk.com/ivsilin0
 00330-80000-00000-AA425,https://vk.com/borov06
 00330-80212-75098-AA130,https://vk.com/stepa_aaaaashkaaa
+00326-10000-00000-AA705,https://vk.com/hatlight
+00327-60000-00000-AA022,https://vk.com/kintus
+00330-80000-00000-AA780,https://vk.com/21bugs_bunny12
