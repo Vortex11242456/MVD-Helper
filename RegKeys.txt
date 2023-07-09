@@ -377,3 +377,4 @@
 00331-10000-00001-AA543,https://vk.com/kenzik70
 00331-10000-00001-AA950,https://vk.com/l_7star_l
 00327-30556-20289-AAOEM,https://vk.com/ivsilin0
+00330-80000-00000-AA425,https://vk.com/borov06
