@@ -384,3 +384,4 @@
 00330-80000-00000-AA780,https://vk.com/21bugs_bunny12
 00330-80000-00000-AA689,https://vk.com/mister_aschat
 00330-80000-00000-AA290,https://vk.com/id162495635
+00331-10000-00001-AA714,https://vk.com/malinovskiy44
