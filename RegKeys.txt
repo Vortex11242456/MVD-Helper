@@ -374,6 +374,6 @@
 00330-80000-00000-AA402,https://vk.com/dima_mirnoy
 00330-80000-00000-AA742,https://vk.com/illya_1
 00330-80000-00000-AA564,https://vk.com/orest0770
-00331-10000-00001-AA958,https://vk.com/kenzik70
+00331-10000-00001-AA543,https://vk.com/kenzik70
 00331-10000-00001-AA950,https://vk.com/l_7star_l
 00327-30556-20289-AAOEM,https://vk.com/ivsilin0
