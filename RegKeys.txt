@@ -386,3 +386,4 @@
 00330-80000-00000-AA290,https://vk.com/id162495635
 00331-10000-00001-AA714,https://vk.com/malinovskiy44
 00331-10000-00001-AA833,https://vk.com/d_antonov08
+00331-10000-00001-AA931,https://vk.com/a_sokolovsky_a
