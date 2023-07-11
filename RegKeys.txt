@@ -389,3 +389,4 @@
 00331-10000-00001-AA931,https://vk.com/a_sokolovsky_a
 00436-50000-00000-AAOEM,https://vk.com/vkmagnus
 00331-10000-00001-AA999,https://vk.com/shehatesxda
+00331-10000-00001-AA773,https://vk.com/aligmen
