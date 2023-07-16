@@ -401,3 +401,4 @@
 00331-10000-00001-AA033,https://vk.com/vladik.petrov3
 00330-80000-00000-AA428,https://vk.com/vl.derose
 00331-10000-00001-AA905,https://vk.com/mxnx1x
+00330-80000-00000-AA433,https://vk.com/id772597597
