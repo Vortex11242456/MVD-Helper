@@ -382,7 +382,7 @@
 00326-10000-00000-AA705,https://vk.com/hatlight
 00327-60000-00000-AA022,https://vk.com/kintus
 00330-80000-00000-AA780,https://vk.com/21bugs_bunny12
-00330-80000-00000-AA689,https://vk.com/mister_aschat
+00331-10000-00001-AA725,https://vk.com/mister_aschat
 00330-80000-00000-AA290,https://vk.com/id162495635
 00331-10000-00001-AA714,https://vk.com/malinovskiy44
 00331-10000-00001-AA833,https://vk.com/d_antonov08
