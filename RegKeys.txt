@@ -410,3 +410,4 @@
 00331-10000-00001-AA405,https://vk.com/dot2424
 00424-80000-00000-AAOEM,https://vk.com/iamlazzy
 00330-80000-00000-AA926,https://vk.com/dagestanskiy1
+00330-80000-00000-AA080,https://vk.com/vkmagnus
