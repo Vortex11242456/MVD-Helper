@@ -402,7 +402,7 @@
 00330-80000-00000-AA428,https://vk.com/vl.derose
 00331-10000-00001-AA905,https://vk.com/mxnx1x
 00330-80000-00000-AA433,https://vk.com/id772597597
-00425-00000-00002-AA780,https://vk.com/zekblch/ДО 19.0|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+00425-00000-00002-AA780,https://vk.com/zekblch
 00331-10000-00001-AA475,https://vk.com/rinat_sobr
 00330-80000-00000-AA367,https://vk.com/id758975155
 00325-80000-00000-AAOEM,https://vk.com/id647697933
@@ -411,3 +411,5 @@
 00424-80000-00000-AAOEM,https://vk.com/iamlazzy
 00330-80000-00000-AA926,https://vk.com/dagestanskiy1
 00330-80000-00000-AA080,https://vk.com/vkmagnus
+00330-80000-00000-AA896,https://vk.com/id530838329
+00331-10000-00001-AA982,https://vk.com/id600529573
