@@ -413,3 +413,5 @@
 00330-80000-00000-AA080,https://vk.com/vkmagnus
 00330-80000-00000-AA896,https://vk.com/id530838329
 00331-10000-00001-AA982,https://vk.com/id600529573
+00331-10000-00001-AA538,https://vk.com/vorobevvvvv
+00331-10000-00001-AA541,https://vk.com/zwerk228
