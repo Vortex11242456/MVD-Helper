@@ -11,7 +11,7 @@
 00331-10000-00001-AA185,https://vk.com/s.lebrer
 00261-50000-00000-AA989,https://vk.com/danil_borozdin
 00371-OEM-8992671-00407,https://vk.com/id445505730
-00329-00000-00003-AA694,https://vk.com/mtagirovic
+00331-10000-00001-AA509,https://vk.com/mtagirovic
 00330-80000-00000-AA479,https://vk.com/mr.tah4uk
 00326-10000-00000-AA521,https://vk.com/dobi.phantoms
 00342-41425-11981-AAOEM,https://vk.com/m.butovskiy
