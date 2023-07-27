@@ -437,3 +437,4 @@
 00330-80000-00000-AA642,https://vk.com/id555286211
 00330-81495-58415-AA075,https://vk.com/dgmilkis
 00331-10000-00001-AA549,https://vk.com/vipvick
+00331-10000-00001-AA584,https://vk.com/vipvick
