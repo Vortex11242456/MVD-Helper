@@ -445,3 +445,4 @@
 00331-10000-00001-AA731,https://vk.com/tworoq
 00329-10130-09414-AA659,https://vk.com/deepferreiro
 00330-80000-00000-AA463,https://vk.com/id530659349
+00330-80000-00000-AA197,https://vk.com/vladosics
