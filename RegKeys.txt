@@ -447,3 +447,4 @@
 00330-80000-00000-AA463,https://vk.com/id530659349
 00330-80000-00000-AA197,https://vk.com/vladosics
 00326-30000-00001-AA674,https://vk.com/id634944821
+00331-10000-00001-AA545,https://vk.com/pinchponch
