@@ -411,7 +411,7 @@
 00330-80000-00000-AA926,https://vk.com/dagestanskiy1
 00330-80000-00000-AA080,https://vk.com/vkmagnus
 00330-80000-00000-AA896,https://vk.com/id530838329
-00331-10000-00001-AA982,https://vk.com/id600529573
+00425-00000-00002-AA308,https://vk.com/id600529573
 00331-10000-00001-AA538,https://vk.com/vorobevvvvv
 00331-10000-00001-AA541,https://vk.com/zwerk228
 00425-00000-00002-AA965,https://vk.com/tima_tokarev
