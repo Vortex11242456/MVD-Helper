@@ -465,3 +465,7 @@
 00326-10000-00000-AA799,https://vk.com/id775015248
 00342-41424-39229-AAOEM,https://vk.com/yavshkafupryachuss
 00327-50002-93595-AAOEM,https://vk.com/yaroslav__n
+00331-10000-00001-AA722,https://vk.com/putrik163
+00331-10000-00001-AA801,https://vk.com/g.pelsik
+00330-80000-00000-AA647,https://vk.com/id588671004
+00330-80000-00000-AA475,https://vk.com/kotecia
