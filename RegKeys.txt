@@ -469,3 +469,4 @@
 00331-10000-00001-AA801,https://vk.com/g.pelsik
 00330-80000-00000-AA647,https://vk.com/id588671004
 00330-80000-00000-AA475,https://vk.com/kotecia
+00331-20020-00000-AA193,https://vk.com/id438343896
