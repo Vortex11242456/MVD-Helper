@@ -41,7 +41,7 @@
 00378-20000-00003-AA658,https://vk.com/shvedreyes
 00331-10000-00001-AA365,https://vk.com/stmezhut
 00330-80000-00000-AA035,https://vk.com/staroverov123
-00327-60000-00000-AA811,https://vk.com/id717582075
+00327-60000-00000-AA953,https://vk.com/id717582075
 00330-80000-00000-AA542,https://vk.com/maxon3r
 00331-10000-00001-AA383,https://vk.com/id607883839
 00330-80000-00000-AA004,https://vk.com/id372098874
