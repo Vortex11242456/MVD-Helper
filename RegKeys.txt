@@ -346,7 +346,7 @@
 00326-10000-00000-AA186,https://vk.com/id492634175
 00331-10000-00001-AA413,https://vk.com/id498106976
 00425-00000-00002-AA384,https://vk.com/notifiedd
-00327-30554-40791-AAOEM,https://vk.com/shelbygreen
+00330-80000-00000-AA837,https://vk.com/shelbygreen
 00330-80000-00000-AA070,https://vk.com/id456581922
 00425-00000-00002-AA503,https://vk.com/ahgxzseko
 00425-00000-00002-AA493,https://vk.com/hokkei13
