@@ -470,3 +470,4 @@
 00330-80000-00000-AA647,https://vk.com/id588671004
 00330-80000-00000-AA475,https://vk.com/kotecia
 00331-20020-00000-AA193,https://vk.com/id438343896
+00331-20020-00000-AA766,https://vk.com/youur_devil
