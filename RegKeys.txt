@@ -343,7 +343,7 @@
 00330-80000-00000-AA050,https://vk.com/honkizxc
 00331-10000-00001-AA548,https://vk.com/id540763364
 00330-80000-00000-AA705,https://vk.com/l1emon
-00326-10000-00000-AA186,https://vk.com/id492634175
+00331-10000-00001-AA838,https://vk.com/id492634175
 00331-10000-00001-AA413,https://vk.com/id498106976
 00425-00000-00002-AA384,https://vk.com/notifiedd
 00330-80000-00000-AA837,https://vk.com/shelbygreen
