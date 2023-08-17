@@ -476,3 +476,6 @@
 00261-50000-00000-AA158,https://vk.com/papadraco
 00330-80000-00000-AA368,https://vk.com/alexander_simonov0
 00325-80000-00000-AAOEM,https://vk.com/id681312982
+00330-80000-00000-AA082,https://vk.com/zagidullin7
+00330-80000-00000-AA131,https://vk.com/eternalhatred2
+00330-80000-00000-AA349,https://vk.com/3tapvk
