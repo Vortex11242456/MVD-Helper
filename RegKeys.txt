@@ -479,3 +479,4 @@
 00330-80000-00000-AA082,https://vk.com/zagidullin7
 00330-80000-00000-AA131,https://vk.com/eternalhatred2
 00330-80000-00000-AA349,https://vk.com/3tapvk
+00326-10000-00000-AA269,https://vk.com/vlad_sdv
