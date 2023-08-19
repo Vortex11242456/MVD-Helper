@@ -480,3 +480,6 @@
 00330-80000-00000-AA131,https://vk.com/eternalhatred2
 00330-80000-00000-AA349,https://vk.com/3tapvk
 00326-10000-00000-AA269,https://vk.com/vlad_sdv
+00330-80000-00000-AA242,https://vk.com/id582347497
+00326-10000-00000-AA013,https://vk.com/id528077019
+00425-00000-00002-AA794,https://vk.com/ld_government
