@@ -483,3 +483,4 @@
 00330-80000-00000-AA242,https://vk.com/id582347497
 00326-10000-00000-AA013,https://vk.com/id528077019
 00425-00000-00002-AA794,https://vk.com/ld_government
+00330-80000-00000-AA680,https://vk.com/v.aacc
