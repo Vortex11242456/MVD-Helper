@@ -489,3 +489,9 @@
 00326-10000-00000-AA648,https://vk.com/velietto2
 00330-80000-00000-AA016,https://vk.com/id817710604
 00331-10000-00001-AA419,https://vk.com/m.dlprod
+00331-10000-00001-AA322,https://vk.com/za1ivv
+00326-10000-00000-AA015,https://vk.com/dziadek_nazar
+00330-80000-00000-AA752,https://vk.com/k.yary2020
+00327-31076-17805-AAOEM,https://vk.com/d.ponomaryov1
+00425-00000-00002-AA959,https://vk.com/d.sotnik17
+00331-10000-00001-AA621,https://vk.com/vester_ex
