@@ -500,3 +500,8 @@
 00330-80000-00000-AA713,https://vk.com/sosi_hui123
 00342-41412-67676-AAOEM,https://vk.com/imkarapuzik
 00331-10000-00001-AA052,https://vk.com/vvoronoy2017
+00330-80000-00000-AA859,https://vk.com/s_bohdan_s
+00331-20020-00000-AA383,https://vk.com/pipiska_dinozavra
+00330-80000-00000-AA442,https://vk.com/sora2018
+00328-00000-00000-AA562,https://vk.com/v.aacc
+00331-10000-00001-AA011,https://vk.com/sergey_kot2021
