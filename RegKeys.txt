@@ -505,3 +505,7 @@
 00330-80000-00000-AA258,https://vk.com/sora2018
 00328-00000-00000-AA562,https://vk.com/v.aacc
 00331-10000-00001-AA011,https://vk.com/sergey_kot2021
+00330-80000-00000-AA599,https://vk.com/skywhydistroyd
+00330-80000-00000-AA397,https://vk.com/deniska_y06
+00331-10000-00001-AA054,https://vk.com/enot_na_banane
+00371-OEM-8992671-00004,https://vk.com/id559381273
