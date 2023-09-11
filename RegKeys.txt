@@ -470,7 +470,7 @@
 00330-80000-00000-AA647,https://vk.com/id588671004
 00330-80000-00000-AA475,https://vk.com/kotecia
 00331-20020-00000-AA193,https://vk.com/id438343896
-00331-20020-00000-AA766,https://vk.com/youur_devil
+00331-20020-00000-AA484,https://vk.com/youur_devil
 00326-10000-00000-AA514,https://vk.com/xxxmanera12
 00331-20020-00000-AA472,https://vk.com/rimskiy6
 00261-50000-00000-AA158,https://vk.com/papadraco
@@ -513,3 +513,6 @@
 00330-80000-00000-AA566,https://vk.com/mayor_nkvd
 00330-80000-00000-AA417,https://vk.com/id613402227
 00329-00000-00003-AA901,https://vk.com/4elshelby
+00331-10000-00001-AA682,https://vk.com/id760858199
+00330-80000-00000-AA431,https://vk.com/alkorezov
+00331-10000-00001-AA601,https://vk.com/yagedz
