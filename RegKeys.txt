@@ -516,3 +516,4 @@
 00331-10000-00001-AA682,https://vk.com/id760858199
 00330-80000-00000-AA431,https://vk.com/alkorezov
 00331-10000-00001-AA601,https://vk.com/yagedz
+00327-30650-44410-AAOEM,https://vk.com/id785672888
