@@ -522,3 +522,4 @@
 00330-80000-00000-AA574,https://vk.com/brabusovskiy
 00330-80000-00000-AA661,https://vk.com/blydnblu_cbln
 00331-10000-00001-AA353,https://vk.com/egorukusov
+00331-20160-01325-AA690,https://vk.com/anawayosd
