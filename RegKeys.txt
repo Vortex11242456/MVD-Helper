@@ -520,3 +520,4 @@
 00327-30650-44410-AAOEM,https://vk.com/id785672888
 00330-80000-00000-AA692,https://vk.com/harano
 00330-80000-00000-AA574,https://vk.com/brabusovskiy
+00330-80000-00000-AA661,https://vk.com/blydnblu_cbln
